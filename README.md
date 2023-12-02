@@ -9,7 +9,7 @@ This repository contains code for sentiment analysis using Distilbert and LSTM. 
 
 ## Python Versions
 
-The code in this repository was written and tested using Python 3.9.16. 
+The code in this repository was written and tested using Python 3.10.12. 
 
 
 ## Dataset
