@@ -1,10 +1,10 @@
-# Sentiment Analysis using Distilbert and  CNN -CM3604
+# Sentiment Analysis using Distilbert and  LSTM -CM3604
 
 
 
 
 
-This repository contains code for sentiment analysis using Distilbert and CNN. This was done as part of a coursework for the module CM 3604 - Deep Learning
+This repository contains code for sentiment analysis using Distilbert and LSTM. This was done as part of a coursework for the module CM 3604 - Deep Learning
 
 
 ## Python Versions
